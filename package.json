@@ -1,0 +1,12 @@
+{
+  "name": "filter",
+  "version": "1.0.1",
+  "description": "Filter bad words from your discord server.",
+  "main": "index.js",
+  "peerDependencies": {
+    "@botbind/klasa": "0.5.4-dev"
+  },
+  "keywords": [],
+  "author": "Bot Bind",
+  "license": "ISC"
+}
